@@ -33,15 +33,6 @@ A responsive, modern e-commerce product page for a stylish oversized t-shirt. Th
 1. Clone the repository or download the files
 2. Open the `index.html` file in your browser
 
-Alternatively, you can use a local development server:
-
-```bash
-# Using Python
-python -m http.server
-
-# Using Node.js with http-server
-npx http-server
-```
 
 ## File Structure
 
